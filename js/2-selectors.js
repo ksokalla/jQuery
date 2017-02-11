@@ -6,6 +6,6 @@ $(function() {
 	var paragraphOne = $('#paragraf');
 	console.log(paragraphOne);
 	
-	var paragraphTwo = $('.paragrafnext');
+	var paragraphTwo = $('.paragraf');
 	console.log(paragraphTwo);
 });
