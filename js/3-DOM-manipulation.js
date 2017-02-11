@@ -31,5 +31,9 @@ jQuery(document).ready(function() {
 	
 	$('h1').addClass('blue');
 	
+//	dodawanie css	
+	
+	$('.paragrafnext').css({'font-size': '3em', 'color': 'red'})
+	
 });
 					   
